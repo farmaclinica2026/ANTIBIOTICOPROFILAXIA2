@@ -1,0 +1,5 @@
+{
+  "name": "Guia de Profilaxia Antimicrobiana ISCAL",
+  "description": "Uma aplicação web para pesquisar e consultar as diretrizes de antibioticoprofilaxia perioperatória da ISCAL (Irmandade da Santa Casa de Londrina), com base no documento técnico SPCIH-015.",
+  "requestFramePermissions": []
+}
